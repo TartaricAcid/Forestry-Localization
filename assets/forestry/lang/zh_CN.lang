@@ -1567,7 +1567,7 @@ for.config.performance.backpacks.resupply.comment=开启背包自动填补。在
 for.config.world.generate=世界生成设置
 
 for.config.world.generate.retrogen.normal=资源重生成
-for.config.world.generate.retrogen.normal.comment=在模组未加入钱已载入的区块生成林业模组中的资源。
+for.config.world.generate.retrogen.normal.comment=在模组未加入前已载入的区块生成林业模组中的资源。
 for.config.world.generate.retrogen.forced=强制资源重生成
 for.config.world.generate.retrogen.forced.comment=强制在所有区块生成林业模组中的资源，即使这些地方已经生成过林业资源。
 
